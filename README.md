@@ -36,8 +36,6 @@ All data is synthetic. No confidential company information is used.
 
 ### 04 / project status
 
-🚧 **In development**
-
 - [x] Create repository
 - [x] Prepare synthetic invoice dataset
 - [ ] Implement validation rules
